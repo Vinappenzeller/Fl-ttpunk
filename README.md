@@ -1,2 +1,2 @@
-# Fl-ttpunk
+# Flättpunk
 Quiz Website

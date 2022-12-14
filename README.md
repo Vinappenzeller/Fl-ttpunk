@@ -1,2 +1,0 @@
-# Flättpunk
-Quiz Website
